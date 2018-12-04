@@ -1,0 +1,10 @@
+form {
+    width: 400px;
+    height: 300px;
+    border: 2px dotted #ccc;
+    margin: 50px auto;
+    text-align: center;
+    padding: 60px 0;
+    box-sizing: border-box;
+    line-height: 40px;
+}
